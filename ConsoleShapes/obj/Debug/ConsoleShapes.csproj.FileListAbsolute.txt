@@ -1,0 +1,7 @@
+C:\Users\send2\source\repos\CSharpBasics\ConsoleShapes\bin\Debug\ConsoleShapes.exe.config
+C:\Users\send2\source\repos\CSharpBasics\ConsoleShapes\bin\Debug\ConsoleShapes.exe
+C:\Users\send2\source\repos\CSharpBasics\ConsoleShapes\bin\Debug\ConsoleShapes.pdb
+C:\Users\send2\source\repos\CSharpBasics\ConsoleShapes\obj\Debug\ConsoleShapes.csprojAssemblyReference.cache
+C:\Users\send2\source\repos\CSharpBasics\ConsoleShapes\obj\Debug\ConsoleShapes.csproj.CoreCompileInputs.cache
+C:\Users\send2\source\repos\CSharpBasics\ConsoleShapes\obj\Debug\ConsoleShapes.exe
+C:\Users\send2\source\repos\CSharpBasics\ConsoleShapes\obj\Debug\ConsoleShapes.pdb

@@ -1,0 +1,17 @@
+C:\Users\send2\source\repos\CSharpBasics\Shapes.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\send2\source\repos\CSharpBasics\Shapes.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\send2\source\repos\CSharpBasics\Shapes.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\send2\source\repos\CSharpBasics\Shapes.Test\bin\Debug\Shapes.Test.dll
+C:\Users\send2\source\repos\CSharpBasics\Shapes.Test\bin\Debug\Shapes.Test.pdb
+C:\Users\send2\source\repos\CSharpBasics\Shapes.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\send2\source\repos\CSharpBasics\Shapes.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\send2\source\repos\CSharpBasics\Shapes.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\send2\source\repos\CSharpBasics\Shapes.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\send2\source\repos\CSharpBasics\Shapes.Test\obj\Debug\Shapes.Test.csprojAssemblyReference.cache
+C:\Users\send2\source\repos\CSharpBasics\Shapes.Test\obj\Debug\Shapes.Test.csproj.CoreCompileInputs.cache
+C:\Users\send2\source\repos\CSharpBasics\Shapes.Test\obj\Debug\Shapes.Test.csproj.CopyComplete
+C:\Users\send2\source\repos\CSharpBasics\Shapes.Test\obj\Debug\Shapes.Test.dll
+C:\Users\send2\source\repos\CSharpBasics\Shapes.Test\obj\Debug\Shapes.Test.pdb
+C:\Users\send2\source\repos\CSharpBasics\Shapes.Test\bin\Debug\ConsoleApp1.exe
+C:\Users\send2\source\repos\CSharpBasics\Shapes.Test\bin\Debug\ConsoleApp1.pdb
+C:\Users\send2\source\repos\CSharpBasics\Shapes.Test\bin\Debug\ConsoleApp1.exe.config
